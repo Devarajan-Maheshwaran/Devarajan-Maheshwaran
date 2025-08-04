@@ -1,10 +1,15 @@
 Hey, I'm Devarajan Maheshwaran
+
 🚀 Blockchain Developer | 🛠️ Full Stack Web3 Builder | Blockchain Tech Researcher
 
 🧾 About Me
+
 🔗 Passionate about building decentralized applications
-🏗️ BUilding Brikx, a blockchain-based real estate platform
+
+🏗️ Building Brikx, a blockchain-based real estate platform
+
 🤝 Active contributor to Web3 hackathons
+
 🧪 Exploring DeFi, Solidity, Cryptography
 
 🧰 Tech Stack

@@ -1,16 +1,18 @@
-## Hi there 👋
+Hey, I'm Devarajan Maheshwaran
+🚀 Blockchain Developer | 🛠️ Full Stack Web3 Builder | Blockchain Researcher
 
-<!--
-**Devarajan-Maheshwaran/Devarajan-Maheshwaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧾 About Me
+🔗 Passionate about building decentralized applications
+🏗️ BUilding Brikx, a blockchain-based real estate platform
+🤝 Active contributor to Web3 hackathons
+🧪 Exploring DeFi, Solidity, Cryptography
+🧰 Tech Stack
+Ethereum Solidity Python C++ Java HTML5 CSS3 React Next.js Node.js Web Crypto API ERC-721 Ethers.js TradingView API
 
-Here are some ideas to get you started:
+🏆 Projects 
+MemeCoin-Launcher: A platform where users can create and launch memecoins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Health-Data-Wallet : A platform where users can store critical and private medical information securely on the blockchain
+
+🌍 Connect With Me
+LinkedIn Twitter Portfolio

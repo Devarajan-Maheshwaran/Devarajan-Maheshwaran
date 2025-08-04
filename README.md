@@ -8,6 +8,7 @@ Hey, I'm Devarajan Maheshwaran
 🧪 Exploring DeFi, Solidity, Cryptography
 
 🧰 Tech Stack
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,9 +25,11 @@ Hey, I'm Devarajan Maheshwaran
 ![TradingView API](https://img.shields.io/badge/TradingView-2294D1?style=for-the-badge&logo=tradingview&logoColor=white)
 
 🏆 Projects 
+
 MemeCoin-Launcher: A platform where users can create and launch memecoins
 
 Health-Data-Wallet : A platform where users can store critical and private medical information securely on the blockchain
 
 🌍 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/devarajan-maheshwaran/))

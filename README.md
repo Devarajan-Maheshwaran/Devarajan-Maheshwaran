@@ -1,6 +1,6 @@
 Hey, I'm Devarajan Maheshwaran
 
-🚀 Blockchain Developer | 🛠️ Full Stack Web3 Builder | ✍️ Blockchain Tech Researcher
+ Blockchain Developer | Full Stack Web3 Builder | Blockchain Tech Researcher | Open-source contributor
 
 🧾 About Me
 

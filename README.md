@@ -5,10 +5,15 @@ Hey, I'm Devarajan Maheshwaran
 🧾 About Me
 
    🔗 Passionate about building decentralized applications
+   
    🤝 Active contributor to Web3 hackathons
+   
    🧪 Exploring DeFi, Solidity, Cryptography
+   
    🤖 Architecting agentic AI workflows on decentralized infrastructure
+   
    🛡️ Verifying model integrity through zero-knowledge proofs
+   
    ⚡ Optimizing on-chain intelligence for autonomous DeFi logic
 
 🧰 Tech Stack

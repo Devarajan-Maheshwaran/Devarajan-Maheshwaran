@@ -4,11 +4,12 @@ Hey, I'm Devarajan Maheshwaran
 
 🧾 About Me
 
-    🔗 Passionate about building decentralized applications
-
-    🤝 Active contributor to Web3 hackathons
-
-    🧪 Exploring DeFi, Solidity, Cryptography
+   🔗 Passionate about building decentralized applications
+   🤝 Active contributor to Web3 hackathons
+   🧪 Exploring DeFi, Solidity, Cryptography
+   🤖 Architecting agentic AI workflows on decentralized infrastructure
+   🛡️ Verifying model integrity through zero-knowledge proofs
+   ⚡ Optimizing on-chain intelligence for autonomous DeFi logic
 
 🧰 Tech Stack
 
@@ -16,7 +17,6 @@ Hey, I'm Devarajan Maheshwaran
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)

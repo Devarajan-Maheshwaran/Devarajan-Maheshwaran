@@ -3,7 +3,7 @@ Hey, I'm Devarajan Maheshwaran
  Blockchain Developer | Full Stack Web3 Builder | Blockchain Tech Researcher | Open-source contributor | Exploring AI + Blockchain Solutions
 
 🧾 About Me
-'''
+
    🔗 Passionate about building decentralized applications
    
    🤝 Active contributor to Web3 hackathons
@@ -15,7 +15,7 @@ Hey, I'm Devarajan Maheshwaran
    🛡️ Verifying model integrity through zero-knowledge proofs
    
    ⚡ Optimizing on-chain intelligence for autonomous DeFi logic
-'''
+
 
 🧰 Tech Stack
 

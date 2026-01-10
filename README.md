@@ -1,12 +1,10 @@
 Hey, I'm Devarajan Maheshwaran
 
- Blockchain Developer | Full Stack Web3 Builder | Blockchain Tech Researcher | Open-source contributor
+ Blockchain Developer | Full Stack Web3 Builder | Blockchain Tech Researcher | Open-source contributor | Exploring AI + Blockchain Solutions
 
 🧾 About Me
 
     🔗 Passionate about building decentralized applications
-
-    🏗️ Building Brikx, a blockchain-based real estate platform
 
     🤝 Active contributor to Web3 hackathons
 
@@ -28,12 +26,6 @@ Hey, I'm Devarajan Maheshwaran
 ![ERC-721](https://img.shields.io/badge/ERC--721-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![TradingView API](https://img.shields.io/badge/TradingView-2294D1?style=for-the-badge&logo=tradingview&logoColor=white) 
-
-🏆 Projects 
-
-🪙 MemeCoin-Launcher: A platform where users can create and launch memecoins
-
-🩺 Health-Data-Wallet : A platform where users can store critical and private medical information securely on the blockchain
 
 🌍 Connect With Me
 

@@ -1,6 +1,6 @@
 Hey, I'm Devarajan Maheshwaran
 
- Blockchain Developer | Full Stack Web3 Builder | Blockchain Tech Researcher | Open-source contributor | Exploring AI + Blockchain Solutions
+ AI & Blockchain Researcher · Agentic Systems · Federated Learning · 3rd Year B.E. CSE @ Chennai Institute of Technology
 
 🧾 About Me
 

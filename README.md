@@ -18,8 +18,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Devarajan-Maheshwaran&theme=tokyo-night&hide_border=true&area=true&radius=8" width="420" />
-
 ### About Me
 
 Third-year Computer Science Engineering student with hands-on experience
@@ -119,8 +117,6 @@ On-chain verification layer (Solidity + Arduino) blocking AI-proposed control ac
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 

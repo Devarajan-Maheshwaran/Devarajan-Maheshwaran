@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- Animated flowing gradient banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Devarajan%20Maheshwaran&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Federated%20Learning%20%7C%20Blockchain%20%7C%20Backend%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
@@ -22,30 +22,14 @@
 
 ### About Me
 
-Software engineer focused on the intersection of **privacy-preserving AI**, **blockchain verification**, and **distributed systems**. I build production-grade pipelines where federated learning, zero-knowledge proofs, and on-chain logic converge into real, deployable systems.
+Third-year Computer Science Engineering student with hands-on experience
+building privacy-preserving AI systems, federated learning pipelines, and
+blockchain-verified applications. Eager to contribute to research on privacy-integrity tradeoffs in
+federated learning and decentralized AI infrastructure while learning from
+cutting-edge work in trustworthy and verifiable machine learning.
 
-- Currently building **BOPFL** — an asynchronous ZK-verified, blockchain-aggregated federated LoRA fine-tuning framework for 7B LLMs
-- Backend Developer Intern at **VK Tutelage** on Axentra AI — a multi-modal travel intelligence platform targeting AWS deployment
-- Researching the **Privacy–Integrity–Efficiency trilemma** in federated learning: TEEs, synchronous ZK-FL, and crypto-economic schemes each have fatal tradeoffs
-- Studying for **GATE 2027** (targeting AIR < 500) and **JLPT N4** Japanese certification
-- Open to research internships in **Federated Learning**, **ZK cryptography**, or **Distributed AI**
 
 <br clear="right"/>
-
----
-
-## Research
-
-**BOPFL — Blockchain-Orchestrated Privacy-Preserving Federated Learning** `2025 – Present`
-
-Formalised the trilemma in federated LoRA fine-tuning of 7B LLMs and designed four core contributions:
-
-| Contribution | What it solves |
-|---|---|
-| **PoUI** — Halo2 ZK circuit, O(1) on-chain verification via recursive aggregation | Lightweight integrity proof for LoRA update arithmetic |
-| **Pre-normalised ZK-Cosine** | Gradient-leak-free alignment check |
-| **VRF-driven synthetic auditing** | Semantic poisoning detection without raw data exposure |
-| **Asynchronous buffered aggregation** | Decouples global rounds from slow clients |
 
 ---
 
@@ -140,22 +124,8 @@ On-chain verification layer (Solidity + Arduino) blocking AI-proposed control ac
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Devarajan-Maheshwaran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarajan-Maheshwaran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devarajan-Maheshwaran&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
-]]>

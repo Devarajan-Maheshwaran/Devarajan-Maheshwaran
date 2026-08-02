@@ -16,7 +16,7 @@
 
 ---
 
-Third-year Computer Science Engineering student (CGPA 7.65, Batch 2024–2028, Chennai Institute of Technology).
+Third-year Computer Science Engineering student (Batch 2024–2028, Chennai Institute of Technology).
 My focus is privacy-preserving ML — federated learning, differential privacy, and gradient security — with blockchain used to enforce trust in AI pipelines where centralised verification is not feasible.
 
 ---

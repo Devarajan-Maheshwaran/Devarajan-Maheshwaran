@@ -1,14 +1,22 @@
-<div align="center">
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--              ANIMATED HEADER BANNER                    -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<!-- Animated flowing gradient banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Devarajan%20Maheshwaran&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Federated%20Learning%20%7C%20Blockchain%20%7C%20Backend%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
-
-<!-- Animated typing headline -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+AI+%2F+ML+%7C+Federated+Learning;Blockchain+%7C+ZK+Proofs+%7C+Smart+Contracts;Distributed+Systems+%7C+Backend+Infrastructure;3rd+Year+B.E.+CSE+%40+Chennai+Institute+of+Technology" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:0d1b2a,100:00d4ff&height=280&section=header&text=Devarajan%20Maheshwaran&fontSize=46&fontColor=00d4ff&fontAlignY=42&desc=Building%20at%20the%20edge%20of%20AI%20%C3%97%20Privacy%20%C3%97%20Web3&descAlignY=62&descSize=17&descColor=a78bfa&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%"/>
 
 <br/>
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--              ANIMATED TYPING HEADLINE                  -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=⛓️+Federated+Learning+%2B+Blockchain+Researcher;🔐+Privacy-Preserving+ML+on+real+devices;🤖+Agentic+AI+systems+that+actually+do+things;🌐+Web3+infra+for+trustless+AI+pipelines;🚀+3rd+Year+CSE+%40+Chennai+Institute+of+Technology" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarajan-maheshwaran/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devarajan-Maheshwaran)
@@ -18,110 +26,208 @@
 
 ---
 
-### About Me
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                    ABOUT                               -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-Third-year Computer Science Engineering student with hands-on experience
-building privacy-preserving AI systems, federated learning pipelines, and
-blockchain-verified applications. Eager to contribute to research on privacy-integrity tradeoffs in
-federated learning and decentralized AI infrastructure while learning from
-cutting-edge work in trustworthy and verifiable machine learning.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=99999&color=A78BFA&center=true&vCenter=true&width=600&lines=↓+Who+am+I%3F" alt="section"/>
+</div>
 
+<br/>
 
-<br clear="right"/>
+> 🧠 I'm a third-year CSE student obsessed with **making AI trustworthy** — through federated learning, differential privacy, and on-chain verification. I build systems where models train without seeing your data, and smart contracts enforce what the AI is allowed to do.
+
+> ⚡ I get excited when distributed systems, privacy math, and blockchain infra all collide in the same project. That's where I do my best work.
 
 ---
 
-## Projects
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--              ONGOING RESEARCH                          -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<details>
-<summary><b>GalleryFL — Privacy-Oriented Federated Learning Platform</b></summary>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=99999&color=00D4FF&center=true&vCenter=true&width=600&lines=↓+Ongoing+Research" alt="section"/>
+</div>
+
 <br/>
 
-On-device TFLite fine-tuning pipeline across 5 Non-IID Android clients (Dirichlet α=0.25). Integrates **FedProx**, **Gaussian Differential Privacy** via Opacus, and a validation-driven commit guard to prevent model regression and data leakage.
+### 🔬 BOPFL — Blockchain-Orchestrated Privacy-Preserving Federated Learning
 
-[View Repository](https://github.com/Devarajan-Maheshwaran/GalleryFL)
+> Studying how to **verify FL model updates without exposing gradients** — working through privacy–trust–efficiency tradeoffs in approaches to fine-tuning LLMs across distributed clients. The goal: a tamper-evident, privacy-preserving update protocol.
+
+`Federated Learning` · `ZK Proofs` · `Differential Privacy` · `LLM Fine-tuning` · `On-chain Verification`
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                  PROJECTS                              -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=99999&color=00D4FF&center=true&vCenter=true&width=600&lines=↓+Projects+I%27ve+shipped" alt="section"/>
+</div>
+
+<br/>
+
+<details open>
+<summary>🛡️ &nbsp;<b>GalleryFL</b> — On-Device Federated Learning Platform</summary>
+<br/>
+
+> Photos never leave the client. An on-device FL pipeline across Non-IID Android clients with FedProx aggregation, Gaussian Differential Privacy, and a validation-driven commit guard to block model regression.
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-161B22?style=flat&logo=github&logoColor=white)](https://github.com/Devarajan-Maheshwaran/GalleryFL)
+`TFLite` · `FedProx` · `Opacus DP-SGD` · `Dirichlet Partitioning` · `Android/Kotlin`
 
 </details>
 
-<details>
-<summary><b>StudyForge — Adaptive AI Study Platform</b></summary>
 <br/>
 
-Zero-API-call NLP pipeline: TF-IDF graph-centrality summariser (ROUGE-L >= 0.38), Bloom's Taxonomy difficulty classifier (F1 >= 0.60), POS-aligned MCQ distractor generator, and cosine-similarity retrieval — all from raw student notes.
+<details>
+<summary>🔍 &nbsp;<b>Pvt-FL-LoRA</b> — Private Federated LoRA Fine-tuning</summary>
+<br/>
 
-[View Repository](https://github.com/Devarajan-Maheshwaran/ai-study-pal)
+> Federated LoRA fine-tuning pipeline with **iDLG gradient inversion attack** demonstrated and **DP-SGD defence** applied. W&B tracked across 5 simulated non-IID clients. Final model exported to ONNX.
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-161B22?style=flat&logo=github&logoColor=white)](https://github.com/Devarajan-Maheshwaran/Pvt-FL-LoRA)
+`Flower` · `PEFT/LoRA` · `Opacus` · `W&B` · `ONNX` · `HuggingFace`
 
 </details>
 
-<details>
-<summary><b>EngageX — Agentic AI Classroom Ecosystem</b></summary>
 <br/>
 
-4-crew CrewAI pipeline (Monitor, Intervention, Quiz, Report) with multimodal signal fusion — Whisper + librosa for audio, face-api.js for vision, Transformers.js for text — over FastAPI + Socket.IO delivering real-time per-student analytics and automated PDF reports.
+<details>
+<summary>📡 &nbsp;<b>WebPulse</b> — Contact-Free Stress & Emotion Estimation</summary>
+<br/>
 
-[View Repository](https://github.com/Devarajan-Maheshwaran/EngageX-Classroom-AI)
+> Reads your stress from your webcam. EfficientPhys rPPG with 3-region fusion, WESAD-trained HRV/stress classifier, and live voice-valence fusion — no wearable required. Pairs with a spoken AI companion.
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-161B22?style=flat&logo=github&logoColor=white)](https://github.com/Devarajan-Maheshwaran/WebPulse)
+`EfficientPhys` · `ONNX Runtime` · `OpenCV` · `MediaPipe` · `Gemini Live`
 
 </details>
 
-<details>
-<summary><b>MedVault — Blockchain Health Data Wallet</b></summary>
 <br/>
 
-3 Solidity contracts (PatientRegistry, HealthRecordStore, AccessController) on BSC Testnet. Client-side AES-GCM encryption via WebCrypto API, on-chain per-record access control, and an integrated fine-tuned LLM chatbot for AI-assisted record querying.
+<details>
+<summary>🤖 &nbsp;<b>EngageX</b> — Agentic AI Classroom Ecosystem</summary>
+<br/>
 
-[View Repository](https://github.com/Devarajan-Maheshwaran/Health-Data-Wallet)
+> 4-agent CrewAI crew (Monitor · Intervention · Quiz · Report) fed by multimodal signals — Whisper + librosa for audio, face-api.js for vision — over FastAPI + Socket.IO with real-time per-student analytics.
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-161B22?style=flat&logo=github&logoColor=white)](https://github.com/Devarajan-Maheshwaran/EngageX-Classroom-AI)
+`CrewAI` · `Whisper` · `librosa` · `face-api.js` · `FastAPI` · `Socket.IO`
 
 </details>
 
-<details>
-<summary><b>Trust-Gated AI Control for Industrial CPS</b></summary>
 <br/>
 
-On-chain verification layer (Solidity + Arduino) blocking AI-proposed control actions when dynamic trust score T — derived from misbehaviour rate M = I/N — falls below threshold or diverges from the independently computed expected safe action. Achieved zero unauthorised actuations in simulation.
+<details>
+<summary>⛓️ &nbsp;<b>AutoCorp</b> — Autonomous AI × Blockchain Business Protocol</summary>
+<br/>
 
-[View Repository](https://github.com/Devarajan-Maheshwaran/CCP)
+> An autonomous agent swarm that creates, manages, and dissolves micro-enterprises entirely on-chain. Smart contracts enforce what the AI can and cannot spend — trustless, unattended financial operations.
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-161B22?style=flat&logo=github&logoColor=white)](https://github.com/Devarajan-Maheshwaran/AutoCorp)
+`CrewAI` · `Solidity` · `ethers.js` · `FastAPI` · `Next.js`
+
+</details>
+
+<br/>
+
+<details>
+<summary>🚨 &nbsp;<b>RescueMeshAI</b> — Offline Disaster Communication</summary>
+<br/>
+
+> Decentralised mesh-network communication for when the internet goes down. Built on Briar protocol — no infrastructure required, works peer-to-peer in disaster zones.
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-161B22?style=flat&logo=github&logoColor=white)](https://github.com/Devarajan-Maheshwaran/RescueMeshAI)
+`Java` · `Android` · `Briar` · `Mesh Networking`
+
+</details>
+
+<br/>
+
+<details>
+<summary>🏥 &nbsp;<b>Health-Data-Wallet</b> — Blockchain Health Records</summary>
+<br/>
+
+> Patient-controlled health record management on Stellar. AES-GCM client-side encryption, on-chain per-record access control, AI chatbot for record querying.
+
+[![Repo](https://img.shields.io/badge/→_View_Repo-161B22?style=flat&logo=github&logoColor=white)](https://github.com/Devarajan-Maheshwaran/Health-Data-Wallet)
+`TypeScript` · `Stellar` · `Solidity` · `WebCrypto API`
 
 </details>
 
 ---
 
-## Tech Stack
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                  TECH STACK                            -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-**AI / ML**
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=99999&color=00D4FF&center=true&vCenter=true&width=600&lines=↓+Tools+I+build+with" alt="section"/>
+</div>
+
+<br/>
+
+**🧠 AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Federated Learning & ZK**
-
-![Python](https://img.shields.io/badge/Flower_flwr-6DA5F5?style=for-the-badge)
-![Opacus](https://img.shields.io/badge/Opacus_DP--SGD-EE4C2C?style=for-the-badge)
-![Halo2](https://img.shields.io/badge/Halo2_ZK-302b63?style=for-the-badge)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Blockchain**
+**🔐 Federated Learning & Privacy**
+
+![Flower](https://img.shields.io/badge/Flower_flwr-6DA5F5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+)
+![Opacus](https://img.shields.io/badge/Opacus_DP--SGD-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PEFT](https://img.shields.io/badge/PEFT%2FLoRA-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+**⛓️ Blockchain & Web3**
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DC6F?style=for-the-badge)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DC6F?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
 
-**Full-Stack & Infrastructure**
+**🛠️ Full-Stack & Infra**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                  ACTIVITY GRAPH                        -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devarajan-Maheshwaran&theme=react-dark&bg_color=0d0221&color=00d4ff&line=a78bfa&point=00d4ff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--                  FOOTER                                -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=CGPA+7.65+·+JLPT+N5+·+N4+in+progress;Open+to+research+collaborations+%26+internships+📬" alt="footer typing"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,70:0d1b2a,100:00d4ff&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>

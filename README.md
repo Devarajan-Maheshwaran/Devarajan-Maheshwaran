@@ -1,4 +1,4 @@
-<![CDATA[<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:0d1b2a,100:00d4ff&height=260&section=header&text=Devarajan%20Maheshwaran&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=AI%20%2F%20ML%20%C2%B7%20Federated%20Learning%20%C2%B7%20Blockchain&descAlignY=62&descSize=16&descColor=00d4ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:0d1b2a,100:00d4ff&height=260&section=header&text=Devarajan%20Maheshwaran&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=AI%20%2F%20ML%20%C2%B7%20Federated%20Learning%20%C2%B7%20Blockchain&descAlignY=62&descSize=16&descColor=00d4ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%"/>
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Webcam-based stress and emotion reader using EfficientPhys rPPG (3-region fusion
 <summary><b>AutoCorp — Autonomous AI x Blockchain Protocol</b></summary>
 <br/>
 
-Agent swarm that creates and manages micro-enterprises on-chain. Solidity smart contracts enforce spending limits and dissolution conditions — AI operates within bounds set by the contract, not the other way around.
+Agent swarm that creates and manages micro-enterprises on-chain. Solidity smart contracts enforce spending limits and dissolution conditions — AI operates within bounds set by the contract.
 
 [![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat&logo=github&logoColor=white)](https://github.com/Devarajan-Maheshwaran/AutoCorp)
 `CrewAI` · `Solidity` · `ethers.js` · `FastAPI` · `Next.js`
@@ -132,7 +132,7 @@ Decentralised mesh-network communication app for infrastructure-free disaster sc
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Federated Learning & Privacy**
 
@@ -162,10 +162,6 @@ Decentralised mesh-network communication app for infrastructure-free disaster sc
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devarajan-Maheshwaran&theme=react-dark&bg_color=0d0221&color=00d4ff&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&lines=Open+to+research+collaborations+and+internships" alt="footer" />
 
 <br/>
@@ -173,4 +169,3 @@ Decentralised mesh-network communication app for infrastructure-free disaster sc
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0d1b2a,100:00d4ff&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-]]>

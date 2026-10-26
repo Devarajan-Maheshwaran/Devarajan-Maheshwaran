@@ -94,10 +94,12 @@ These are exploratory builds. They are public so the design is visible, but they
 
 ## Currently learning and building
 
-- Robotics software: **ROS 2, Nav2 and simulation** (Gazebo / Isaac Sim), the foundation for autonomous perception and navigation
-- LiDAR and point-cloud processing (Open3D)
-- Agent pipelines that turn raw sensor data into structured, verifiable reports
-- Hardening existing prototypes: tests, CI and reproducible setups
+- **Deep learning:** building and training models from scratch in PyTorch, with a focus on vision and multimodal architectures, and on understanding why they work rather than only using pretrained ones
+- **Reinforcement learning:** policy-gradient and actor-critic methods (PPO), reward design, and learned locomotion policies trained in simulation, including the sim-to-real transfer problem
+- **Physical AI:** models that perceive, decide and act in the real world, including vision-language-action (VLA) ideas, with simulation (Gazebo / Isaac Sim) and ROS 2 as the testing ground
+- **Edge deployment:** compressing and exporting trained models (ONNX, TFLite, quantization) to run on low-power devices
+- **Agentic pipelines:** turning raw sensor data into structured, verifiable reports with LLM/VLM tool use
+- **Engineering rigour:** adding tests, CI and reproducible setups to my existing projects
 
 ---
 

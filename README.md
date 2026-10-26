@@ -37,19 +37,7 @@
 
 I build machine learning systems that have to be **trustworthy by design**: models that learn without centralising private data, agents that act within enforceable limits, and pipelines whose results can be checked rather than assumed.
 
-My research focus is **federated learning, differential privacy and gradient security**, and I am extending it toward **autonomous systems that perceive, decide and report in the real world** (perception, edge deployment and agent workflows).
-
-Most of my work is developed and trained on a CPU-only laptop with free-tier tooling. That constraint is why I lean toward small models, LoRA fine-tuning, DP-SGD and ONNX/edge deployment instead of brute-force compute.
-
----
-
-## Research
-
-**BOPFL: Blockchain-Orchestrated Privacy-Preserving Federated Learning** *(ongoing)*
-
-How can a federated model update be verified without exposing the gradient behind it? I study the privacy / trust / efficiency trade-offs in current approaches to fine-tuning LLMs across distributed clients.
-
-`Federated Learning` · `Differential Privacy` · `ZK Proofs` · `LLM Fine-tuning` · `On-chain Verification`
+My research and development interests span the full lifecycle of AI systems — from model improvement and inference optimization to real-time deployment, edge AI and on-device intelligence. Through my projects, I have explored federated learning, differential privacy and gradient security, alongside computer vision, perception pipelines and agentic workflows. I am particularly interested in bridging the gap between capable models and efficient, reliable real-world systems through intelligent inference, practical deployment and continuous evaluation.
 
 ---
 
@@ -117,11 +105,6 @@ These are exploratory builds. They are public so the design is visible, but they
 
 I'm looking for **internships and research collaborations** in privacy-preserving ML, agentic systems, edge AI and robotics. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/devarajan-maheshwaran/).
 
-<!-- OPTIONAL: add after your repos are cleaned up, if you want live stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarajan-Maheshwaran&layout=compact&hide_border=true" alt="Top programming languages" />
-</p>
--->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0d1b2a,100:00d4ff&height=100&section=footer&animation=fadeIn" width="100%" alt="Animated blue footer" />

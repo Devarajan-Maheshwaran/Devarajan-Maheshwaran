@@ -1,4 +1,12 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:0d1b2a,100:00d4ff&height=150&section=header&animation=fadeIn" width="100%" alt="Animated blue header" />
+</div>
+
 <h1 align="center">Devarajan Maheshwaran</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&lines=Privacy-preserving+ML;Agentic+AI;Edge+%26+on-device+intelligence;Federated+Learning+%26+Differential+Privacy" alt="Animated research interests" />
+</p>
 
 <p align="center">
   <b>Privacy-preserving ML · Agentic AI · Edge &amp; on-device intelligence</b><br/>
@@ -6,9 +14,21 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devarajan-maheshwaran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Research-2ea44f?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/devarajan-maheshwaran/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:devarajanmaheswaran.cse2024@citchennai.net">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Devarajan-Maheshwaran">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/devarajan-maheshwaran/">
+    <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Research-2ea44f?style=for-the-badge" alt="Open to Internships and Research"/>
+  </a>
 </p>
 
 ---
@@ -47,12 +67,14 @@ These are exploratory builds. They are public so the design is visible, but they
 
 | Project | Idea | Stack | Status |
 |---|---|---|---|
-| [**EngageX**](https://github.com/Devarajan-Maheshwaran/EngageX-Classroom-AI) *(team fork)* | Four-agent classroom pipeline (Monitor, Intervention, Quiz, Report) fed by audio and vision signals, with real-time per-student analytics. <br/>*My contribution: [describe exactly what you built].* | CrewAI · Whisper · librosa · face-api.js · FastAPI · Socket.IO | 🚧 Prototype, known bugs |
-| [**AutoCorp**](https://github.com/Devarajan-Maheshwaran/AutoCorp) | Agent swarm that runs micro-enterprises on-chain, with Solidity contracts enforcing spending limits and dissolution conditions so the AI operates inside hard bounds. | CrewAI · Solidity · ethers.js · FastAPI · Next.js | 🚧 Prototype, known bugs |
-| [**Trust-gated AI Control for CPS**](https://github.com/Devarajan-Maheshwaran/Blockchain_Trustgated_AI_Control_for_Cyber_Physical_Systems) | An AI orchestrator monitors simulated edge hardware (Arduino Uno) for behavioural anomalies, and Ethereum/Hardhat contracts gate control actions on verified trust. | Python · Hardhat · Solidity | 🧪 Proof of concept |
+| [**EngageX**](https://github.com/Devarajan-Maheshwaran/EngageX-Classroom-AI) *(team fork)* | Four-agent classroom pipeline (Monitor, Intervention, Quiz, Report) fed by audio and vision signals, with real-time per-student analytics. <br/><em>My contribution: [describe exactly what you built].</em> | CrewAI · Whisper · librosa · face-api.js · FastAPI · Socket.IO | Prototype, known bugs |
+| [**AutoCorp**](https://github.com/Devarajan-Maheshwaran/AutoCorp) | Agent swarm that runs micro-enterprises on-chain, with Solidity contracts enforcing spending limits and dissolution conditions so the AI operates inside hard bounds. | CrewAI · Solidity · ethers.js · FastAPI · Next.js | Prototype, known bugs |
+| [**Trust-gated AI Control for CPS**](https://github.com/Devarajan-Maheshwaran/Blockchain_Trustgated_AI_Control_for_Cyber_Physical_Systems) | An AI orchestrator monitors simulated edge hardware (Arduino Uno) for behavioural anomalies, and Ethereum/Hardhat contracts gate control actions on verified trust. | Python · Hardhat · Solidity | Proof of concept - Simulated |
 
 <details>
 <summary><b>More projects</b></summary>
+
+<br/>
 
 - [**Health-Data-Wallet**](https://github.com/Devarajan-Maheshwaran/Health-Data-Wallet): patient-controlled health records on Stellar with client-side AES-GCM encryption, on-chain per-record access control and AI-assisted querying. *(TypeScript, Stellar, Solidity, WebCrypto)*
 - [**RescueMeshAI**](https://github.com/Devarajan-Maheshwaran/RescueMeshAI): infrastructure-free peer-to-peer mesh communication for disaster scenarios. *(Java, Android, Briar)*
@@ -93,12 +115,14 @@ These are exploratory builds. They are public so the design is visible, but they
 
 ## Let's collaborate
 
-I'm looking for **internships and research collaborations** in privacy-preserving ML, agentic systems, edge AI and robotics.
-The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/devarajan-maheshwaran/).
+I'm looking for **internships and research collaborations** in privacy-preserving ML, agentic systems, edge AI and robotics. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/devarajan-maheshwaran/).
 
-<!--
-OPTIONAL: add after your repos are cleaned up, if you want live stats
+<!-- OPTIONAL: add after your repos are cleaned up, if you want live stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarajan-Maheshwaran&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarajan-Maheshwaran&layout=compact&hide_border=true" alt="Top programming languages" />
 </p>
 -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0d1b2a,100:00d4ff&height=100&section=footer&animation=fadeIn" width="100%" alt="Animated blue footer" />
+</div>
